@@ -6,7 +6,7 @@ Azure Event Hubs is a fully managed service designed for real-time data ingestio
 
 ## Azure Event Hub Architeture:
 
-![Solution Architecture](Assests/event_hubs_architecture.png)
+![Solution Architecture](Azure_event_hub/assets/event_hub_data_flow.png)
 
 ## Azure Event Hub Data Flow:
 
