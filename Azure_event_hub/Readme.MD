@@ -3,7 +3,7 @@
 Azure Event Hubs is a fully managed service designed for real-time data ingestion, enabling the capture and processing of large volumes of event data like telemetry and logs. It supports scalability, security, and reliability, handling millions of events per second, and integrates seamlessly with various Azure services for further processing and analysis.
 
 
-
+https://github.com/Akshay107app/End-to-End-_real-Time-streaming-Project-project/blob/main/Azure_event_hub/assets/Event%20Hubs.png?raw=true
 
 ## Azure Event Hub Architeture:
 
